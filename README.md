@@ -10,7 +10,7 @@ LuciTracker is a homebrew microtonal NES/Famicom-style chiptune music player whi
 
 * [Watch the music video](https://youtu.be/clHJY7exVec)
 * [Listen on Bandcamp](https://lucilla.bandcamp.com/album/ultrajoy), download the score
-* [Download LuciTracker](https://lucitone.itch.io/lucitracker) and play Ultrajoy for yourself
+* [Download LuciTracker](https://lucillablessing.itch.io/lucitracker) and play Ultrajoy for yourself
 * Read the LuciTracker manual: look no further than `manual.md`
 * Build LuciTracker for yourself: read on!
 
